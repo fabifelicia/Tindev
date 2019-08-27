@@ -2,4 +2,4 @@
 
 Projeto criado na semana Omnistack - Rocketseat
 
-Utilizado NodeJs e React
+Utilizado NodeJs, ReactJs e React Native
