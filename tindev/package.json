@@ -9,12 +9,18 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.11.0",
+    "acorn": "^7.2.0",
     "axios": "^0.19.2",
+    "handlebars": "^4.7.6",
+    "kind-of": "^6.0.3",
+    "logkitty": "^0.7.1",
+    "minimist": "^1.2.5",
     "react": "16.8.6",
     "react-native": "^0.60.6",
     "react-native-gesture-handler": "^1.6.1",
     "react-navigation": "^3.13.0",
-    "reanimated": "^0.0.1-alpha"
+    "reanimated": "^0.0.1-alpha",
+    "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
