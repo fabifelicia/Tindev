@@ -16,12 +16,14 @@
     "lodash": "^4.17.19",
     "logkitty": "^0.7.1",
     "minimist": "^1.2.5",
+    "node-fetch": "^2.6.1",
     "react": "16.8.6",
     "react-native": "^0.60.6",
     "react-native-gesture-handler": "^1.6.1",
     "react-navigation": "^3.13.0",
     "reanimated": "^0.0.1-alpha",
-    "websocket-extensions": "^0.1.4"
+    "websocket-extensions": "^0.1.4",
+    "yargs-parser": "^20.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
