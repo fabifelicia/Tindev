@@ -14,6 +14,7 @@
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
     "mongoose": "^5.8.0",
+    "mquery": "^3.2.3",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
