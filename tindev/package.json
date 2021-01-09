@@ -17,13 +17,14 @@
     "logkitty": "^0.7.1",
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.1",
+    "node-notifier": "^9.0.0",
     "react": "16.8.6",
     "react-native": "^0.60.6",
     "react-native-gesture-handler": "^1.6.1",
     "react-navigation": "^3.13.0",
     "reanimated": "^0.0.1-alpha",
     "websocket-extensions": "^0.1.4",
-    "yargs-parser": "^20.0.0"
+    "yargs-parser": "^20.2.4"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
