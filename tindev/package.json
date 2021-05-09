@@ -13,7 +13,7 @@
     "axios": "^0.21.1",
     "handlebars": "^4.7.7",
     "kind-of": "^6.0.3",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "logkitty": "^0.7.1",
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.1",
