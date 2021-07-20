@@ -20,7 +20,7 @@
     "node-fetch": "^2.6.1",
     "node-notifier": "^9.0.0",
     "react": "16.8.6",
-    "react-native": "^0.60.6",
+    "react-native": "^0.62.3",
     "react-native-gesture-handler": "^1.6.1",
     "react-navigation": "^3.13.0",
     "reanimated": "^0.0.1-alpha",
