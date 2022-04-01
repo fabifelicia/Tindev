@@ -16,7 +16,7 @@
     "kind-of": "^6.0.3",
     "lodash": "^4.17.21",
     "logkitty": "^0.7.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-fetch": "^2.6.7",
     "node-notifier": "^9.0.0",
     "react": "16.8.6",
