@@ -13,7 +13,7 @@
     "express": "^4.19.2",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.6",
-    "mongoose": "^5.13.20",
+    "mongoose": "^6.13.6",
     "mquery": "^3.2.3",
     "socket.io": "^2.4.0",
     "xmlhttprequest-ssl": "^1.6.2"
