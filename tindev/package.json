@@ -14,7 +14,7 @@
     "handlebars": "^4.7.9",
     "hosted-git-info": "^4.0.2",
     "kind-of": "^6.0.3",
-    "lodash": "^4.17.23",
+    "lodash": "^4.18.1",
     "logkitty": "^0.7.1",
     "minimist": "^1.2.6",
     "node-fetch": "^2.6.7",
